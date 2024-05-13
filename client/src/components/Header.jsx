@@ -32,7 +32,7 @@ function Header() {
             </li>
           </Link>
           <Link to="/sign-in">
-            <li className=" text-slate-700  hover:underline">Sign</li>
+            <li className=" text-slate-700  hover:underline">SigIn</li>
           </Link>
         </ul>
       </div>
